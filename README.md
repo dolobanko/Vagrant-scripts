@@ -1,0 +1,2 @@
+# Vagrant-scripts
+Vagrant templates
